@@ -5,6 +5,7 @@ setup(
     version='0.0.1',
     packages=[''],
     url='',
+    install_requires=['pacmap', 'trimap', 'anndata']
     license='',
     author='Ergün Tiryaki',
     author_email='erguntiryaki27@gmail.com',
