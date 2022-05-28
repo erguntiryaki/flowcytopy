@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     packages=find_packages(include=['flowcytopy', 'flowcytopy.*']),
     url='',
-    install_requires=['pacmap', 'trimap', 'anndata'],
+    install_requires=['pacmap', 'trimap', 'anndata', 'FlowKit'],
     license='',
     author='Ergün Tiryaki',
     author_email='erguntiryaki27@gmail.com',
